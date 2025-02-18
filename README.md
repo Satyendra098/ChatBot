@@ -79,10 +79,3 @@ To run the `IntelliChat` locally, follow these steps:
 - [OpenAI API documentation](https://platform.openai.com/docs/introduction)
 - [Firebase documentation](https://firebase.google.com/docs)
 
-## ✨Credits
-
-`IntelliChat` is developed and maintained by `Yash`. Acknowledgements and credits to Open AI API Developers and Muhammad Dani for the [design](https://dribbble.com/shots/20478647-RoboReply-Chatbot-Landing-Page) inspiration.
-
-## 📧Contacts
-
-For any inquiries or feedback, please contact [Here](mailto:its.yash.kumar23@gmail.com).
